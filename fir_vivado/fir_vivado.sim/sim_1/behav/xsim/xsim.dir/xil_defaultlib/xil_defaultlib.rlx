@@ -1,0 +1,8 @@
+0.7
+2020.2
+Apr 18 2022
+15:53:03
+/home/ywfan/SOCD_Lab/lab_3/lab-fir/bram/bram11.v,1697012860,verilog,,/home/ywfan/SOCD_Lab/lab_3/lab-fir/fir/rtl/fir.v,,bram11,,,,,,,,
+/home/ywfan/SOCD_Lab/lab_3/lab-fir/fir/rtl/fir.v,1697524134,verilog,,/home/ywfan/SOCD_Lab/lab_3/lab-fir/fir/tb/fir_tb.v,,add;axilite;fir;mul,,,,,,,,
+/home/ywfan/SOCD_Lab/lab_3/lab-fir/fir/tb/fir_tb.v,1697447243,verilog,,,,fir_tb,,,,,,,,
+/home/ywfan/SOCD_Lab/lab_3/lab-fir/fir_vivado/fir_vivado.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,

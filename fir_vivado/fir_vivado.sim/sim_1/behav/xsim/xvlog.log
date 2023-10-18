@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ywfan/SOCD_Lab/lab_3/lab-fir/bram/bram11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bram11
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ywfan/SOCD_Lab/lab_3/lab-fir/fir/rtl/fir.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fir
+INFO: [VRFC 10-311] analyzing module axilite
+INFO: [VRFC 10-311] analyzing module mul
+INFO: [VRFC 10-311] analyzing module add
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ywfan/SOCD_Lab/lab_3/lab-fir/fir/tb/fir_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fir_tb
